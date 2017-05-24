@@ -1,0 +1,11 @@
+Package: tagalogstop
+Type: Package
+Title: Contains a list of tagalog stop words
+Version: 0.1.0
+Author: Allan de Venecia
+Maintainer: Allan de Venecia <allan.devenecia@cirrolytix.com>
+Description: Just a list of tagalog stop words.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
